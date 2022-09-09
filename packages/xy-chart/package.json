@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx_xy-chart",
-  "version": "0.0.85",
+  "version": "0.0.86",
   "description": "A package of charts with standard x- and y- axes. https://williaster.github.io/data-ui",
   "sideEffects": false,
   "main": "lib/index.js",

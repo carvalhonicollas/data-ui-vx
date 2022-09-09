@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx_theme",
-  "version": "0.0.85",
+  "version": "0.0.86",
   "description": "Themes for data-ui",
   "sideEffects": false,
   "main": "lib/index.js",

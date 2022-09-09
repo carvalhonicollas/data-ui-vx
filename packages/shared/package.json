@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx_shared",
-  "version": "0.0.85",
+  "version": "0.0.86",
   "description": "Shared @data-ui components used across multiple packages",
   "sideEffects": false,
   "main": "lib/index.js",

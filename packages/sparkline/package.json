@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx_sparkline",
-  "version": "0.0.85",
+  "version": "0.0.86",
   "description": "React + d3 library for creating sparklines",
   "sideEffects": false,
   "main": "lib/index.js",

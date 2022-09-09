@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx_data-table",
-  "version": "0.0.85",
+  "version": "0.0.86",
   "description": "Table components that can handle a lot of data",
   "sideEffects": false,
   "main": "lib/index.js",
