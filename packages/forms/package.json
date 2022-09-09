@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/forms",
+  "name": "@infinitus/data-ui-vx_forms",
   "version": "0.0.85",
   "description": "A package of form elements for data-rich UIs. https://williaster.github.io/data-ui",
   "main": "build/index.js",

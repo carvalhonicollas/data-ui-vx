@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/histogram",
+  "name": "@infinitus/data-ui-vx_histogram",
   "version": "0.0.85",
   "description": "React + d3 library for creating histograms",
   "sideEffects": false,

@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/network",
+  "name": "@infinitus/data-ui-vx_network",
   "version": "0.0.85",
   "description": "React + d3 library for creating graph visualizations",
   "sideEffects": false,

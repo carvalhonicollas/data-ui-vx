@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/event-flow",
+  "name": "@infinitus/data-ui-vx_event-flow",
   "version": "0.0.85",
   "description": "A visualization to explore sequences of events",
   "keywords": [

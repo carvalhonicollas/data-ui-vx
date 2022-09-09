@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/theme",
+  "name": "@infinitus/data-ui-vx_theme",
   "version": "0.0.85",
   "description": "Themes for data-ui",
   "sideEffects": false,

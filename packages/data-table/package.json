@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui-vx/data-table",
+  "name": "@infinitus/data-ui-vx_data-table",
   "version": "0.0.85",
   "description": "Table components that can handle a lot of data",
   "sideEffects": false,
