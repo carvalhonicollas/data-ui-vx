@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/radial-chart",
+  "name": "@data-ui-vx/radial-chart",
   "version": "0.0.85",
   "description": "A package for radial-axis visualizations https://williaster.github.io/data-ui",
   "sideEffects": false,

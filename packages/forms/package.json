@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/forms",
+  "name": "@data-ui-vx/forms",
   "version": "0.0.85",
   "description": "A package of form elements for data-rich UIs. https://williaster.github.io/data-ui",
   "main": "build/index.js",
@@ -19,7 +19,7 @@
     "react",
     "data"
   ],
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "dependencies": {
     "prop-types": "^15.5.10",

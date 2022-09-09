@@ -1,8 +1,8 @@
 {
-  "name": "@data-ui/data-ui",
+  "name": "@data-ui-vx/data-ui",
   "version": "0.0.0",
-  "private": true,
-  "description": "A collection of components for data-rich user interfaces https://williaster.github.io/data-ui",
+  "private": false,
+  "description": "A collection of components for data-rich user interfaces",
   "main": "index.js",
   "scripts": {
     "bootstrap": "lerna bootstrap",
@@ -12,7 +12,7 @@
     "release": "yarn run prepare-release && lerna publish && lerna run gh-pages",
     "test": "lerna bootstrap && yarn run lint && yarn run jest"
   },
-  "repository": "https://github.com/williaster/data-ui.git",
+  "repository": "https://github.com/carvalhonicollas/data-ui-vx",
   "keywords": [
     "data",
     "visualization",
@@ -22,7 +22,7 @@
     "data-ui",
     "vx"
   ],
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "devDependencies": {
     "coveralls": "^3.0.0",

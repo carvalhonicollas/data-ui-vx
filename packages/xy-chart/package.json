@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/xy-chart",
+  "name": "@data-ui-vx/xy-chart",
   "version": "0.0.85",
   "description": "A package of charts with standard x- and y- axes. https://williaster.github.io/data-ui",
   "sideEffects": false,
@@ -30,7 +30,7 @@
     "visualization",
     "plot"
   ],
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "dependencies": {
     "@data-ui/shared": "^0.0.85",

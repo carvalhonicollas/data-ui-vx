@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/shared",
+  "name": "@data-ui-vx/shared",
   "version": "0.0.85",
   "description": "Shared @data-ui components used across multiple packages",
   "sideEffects": false,
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williaster/data-ui.git"
+    "url": "git+https://github.com/carvalhonicollas/data-ui-vx"
   },
   "keywords": [
     "vx",

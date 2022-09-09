@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/theme",
+  "name": "@data-ui-vx/theme",
   "version": "0.0.85",
   "description": "Themes for data-ui",
   "sideEffects": false,
@@ -20,7 +20,7 @@
     "prettier": "beemo prettier \"./{src,test}/**/*.{js,jsx,json,md}\"",
     "prepublish": "yarn run build"
   },
-  "repository": "https://github.com/williaster/data-ui.git",
+  "repository": "https://github.com/carvalhonicollas/data-ui-vx",
   "keywords": [
     "data-ui",
     "visualization",

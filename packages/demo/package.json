@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/demo",
+  "name": "@data-ui-vx/demo",
   "version": "0.0.84",
   "description": "data-ui demo",
   "scripts": {
@@ -13,13 +13,13 @@
     "lint": "beemo create-config prettier && yarn run eslint",
     "prettier": "beemo prettier \"./examples/**/*.{js,jsx,json,md}\""
   },
-  "repository": "https://github.com/williaster/data-ui.git",
+  "repository": "https://github.com/carvalhonicollas/data-ui-vx",
   "keywords": [
     "demo",
     "examples",
     "storybook"
   ],
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "homepage": "https://github.com/williaster/data-ui#readme",
   "devDependencies": {
@@ -71,7 +71,7 @@
     "aphrodite": "^1.2.0",
     "react": "^15.0.0-0 || ^16.0.0-0"
   },
-  "private": true,
+  "private": false,
   "beemo": {
     "module": "@data-ui/build-config",
     "drivers": [

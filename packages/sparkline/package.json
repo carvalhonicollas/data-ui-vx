@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/sparkline",
+  "name": "@data-ui-vx/sparkline",
   "version": "0.0.85",
   "description": "React + d3 library for creating sparklines",
   "sideEffects": false,
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/williaster/data-ui.git"
+    "url": "git+https://github.com/carvalhonicollas/data-ui-vx"
   },
   "keywords": [
     "vx",

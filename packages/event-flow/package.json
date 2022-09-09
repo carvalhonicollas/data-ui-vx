@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/event-flow",
+  "name": "@data-ui-vx/event-flow",
   "version": "0.0.85",
   "description": "A visualization to explore sequences of events",
   "keywords": [
@@ -20,8 +20,8 @@
     "prepublish": "yarn run build",
     "test": "jest --colors --verbose --coverage"
   },
-  "repository": "https://github.com/williaster/data-ui.git",
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "repository": "https://github.com/carvalhonicollas/data-ui-vx",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "homepage": "https://github.com/williaster/data-ui#readme",
   "devDependencies": {

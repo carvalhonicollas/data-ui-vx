@@ -1,5 +1,5 @@
 {
-  "name": "@data-ui/data-table",
+  "name": "@data-ui-vx/data-table",
   "version": "0.0.85",
   "description": "Table components that can handle a lot of data",
   "sideEffects": false,
@@ -27,7 +27,7 @@
     "react",
     "react-virtualized"
   ],
-  "author": "Chris Williams <chris.williams@airbnb.com>",
+  "author": "Nicollas Carvalho",
   "license": "MIT",
   "homepage": "https://github.com/williaster/data-ui#readme",
   "dependencies": {
