@@ -1,6 +1,6 @@
 {
   "name": "@infinitus/data-ui-vx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A collection of components for data-rich user interfaces",
   "main": "index.js",
