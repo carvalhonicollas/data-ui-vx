@@ -3,11 +3,11 @@ import PropTypes from 'prop-types';
 
 import localPoint from '@vx/event/build/localPoint';
 import withTooltip from '@vx/tooltip/build/enhancers/withTooltip';
-import TooltipWithBounds, {
-  withTooltipPropTypes as vxTooltipPropTypes,
-} from '@vx/tooltip/build/tooltips/TooltipWithBounds';
 
 export { default as Tooltip } from '@vx/tooltip/build/tooltips/Tooltip';
+
+import TooltipWithBounds from '@vx/tooltip/build/tooltips/TooltipWithBounds';
+import { withTooltipPropTypes as vxTooltipPropTypes } from '@vx/tooltip/build/enhancers/withTooltip';
 
 export const withTooltipPropTypes = {
   onMouseMove: PropTypes.func, // expects to be called like func({ event, datum })
